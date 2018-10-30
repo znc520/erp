@@ -1,1 +1,1 @@
-public  class  Admin{	private List<Emp>emps;}
+public  class  Admin{	private List<Emp>emps;	private String title;}

@@ -1,0 +1,21 @@
+From 536f85ac6bdbd431a58deb5dac1487a273d90a90 Mon Sep 17 00:00:00 2001
+From: mldn <357038192@qq.com>
+Date: Wed, 31 Oct 2018 08:29:12 +0800
+Subject: [PATCH 2/2] admin.java5
+
+---
+ Admin.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Admin.java b/Admin.java
+index cb07dd6..710ccf9 100644
+--- a/Admin.java
++++ b/Admin.java
+@@ -1 +1 @@
+-public  class  Admin{	private List<Emp>emps;	private String title;	private String note;}
+\ No newline at end of file
++public  class  Admin{	private List<Emp>emps;	private String title;	private String note;		private String note;}
+\ No newline at end of file
+-- 
+2.6.2.windows.1
+
